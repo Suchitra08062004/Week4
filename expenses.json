@@ -1,0 +1,29 @@
+{
+    "expenses": [
+        {
+            "date": "2026-06-15",
+            "amount": 500.0,
+            "category": "Food",
+            "description": "Lunch"
+        },
+        {
+            "date": "2026-06-14",
+            "amount": 2000.0,
+            "category": "Skincare",
+            "description": "skin"
+        },
+        {
+            "date": "2026-06-13",
+            "amount": 4000.0,
+            "category": "goa",
+            "description": "trip"
+        },
+        {
+            "date": "2026-05-15",
+            "amount": 500.0,
+            "category": "nails",
+            "description": "fashion"
+        }
+    ],
+    "budget": 10000.0
+}
